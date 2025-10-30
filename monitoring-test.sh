@@ -3,7 +3,7 @@
 # Monitor process "test" and check HTTPS endpoint
 # Intelligent logging: start, stop, restart, and URL failures
 # Author: Filkin Boris
-# Version: 2.1
+# Version: 2.0
 # ===============================================
 
 PROCESS_NAME="ptest"
